@@ -1,0 +1,537 @@
+Central
+8228067356
+Login :Jwalagow3
+Tran  : Gowthami@890
+
+Passport Details:
+Number : M5007096
+Issued : 30/12/2014
+Valid  : 29/12/2024
+
+My Exten Full number
+080-66416511
+
+Gas Book : 8970024365
+
+https://www.bescom.co.in/SCP/MyAccount/QuickPayment.aspx //Power Bill
+6616807000
+
+TCS User Name
+www.careers.tcs.com
+narasimharao1.jwala@gmail.com
+."YNadGU$35
+
+http://www.cwc.nic.in/
+
+Accenture
+https://india.jobs.accenture.com/default.aspx
+narasimharao1.jwala@gmail.com
+ShanumanS@890
+9901283003
+
+Leave Sheet
+
+https://docs.google.com/spreadsheets/d/1452ehyNI__M3mi6v5Fmcd5c62-O0ChgklZMlF7oYpyI/edit#gid=1986006109
+
+/home/tomcat/PostInstallSandboxRefresh.tcl
+
+chmod 755 file
+
+S2S : 10.67.168.18 IP
+
+User Name : 25849259
+Password  : shanuman
+70479176
+Savings Account No.: 50100171579021 , DOMLUR BANGALORE
+Cust Id :
+3022049207
+
+RBHOLICB
+
+Master Environment
+https://docs.google.com/spreadsheets/d/1pfcImhPWqAbeJofmDpvx6-hU6n_haNR_cj7KTQxRR9g/edit
+
+080-39802774
+https://portal.medibuddy.in/Policyinfy.aspx
+https://infosys.medibuddy.in/Indexinfy.aspx
+717725@infy
+shanumans890
+https://track.medibuddy.in/
+H301120171154568926
+
+Sporolak shashai 1/4 brest milk
+kolikai drops 3Drops
+
+infosys@mediassistindia.com
+
+LIC :
+https://customer.onlinelic.in/LICEPS/Login/begin.do?ebiz
+365590230
+jwalagow3
+
+PFBPXHXVLPT7
+
+
+Support manuval :
+
+https://docs.google.com/document/d/1OaKT1IPPRM803nUIJAq6SidVa8v2B5ZK3Hs_gZ8cTIQ/edit
+
+3022049207
+
+\\BLRKEC382002D\Jwalanarasimha.u
+
+https://www.bescom.co.in/SCP/Myhome.aspx  //BESCOM
+Serverame : uusrcppla16
+User Name : tomcat
+password  : n0tW1ndch1ll
+set context user creator pass d8rw1n;
+exec prog emxExtractSchema.tcl * *;
+
+ev0luti0n
+
+Card : 0906
+Satyanarayana890
+
+http://infypacsrv/pearl.pac // Proxy
+
+3425096459
+8228067356
+MMID 9016659
+Satya890
+Tra : Jwalagow3
+
+jwalagow
+jmo122
+
+Satya_890
+gTKTJRkP
+
+ACHPU2933P
+Satya@888
+
+100205
+MA@fos16
+
+https://payments.billdesk.com/MercOnline/SPDCLController
+6322218000712
+
+http://www.3ds.com/fileadmin/general/Terms/Licensed-Program-Specifications/CATIA/CATIA_ComposerR2015x.pdf
+
+\\blrkecpk6ps01  // BLR Printer
+
+http://englon138925d:8081/enovia/emxLogin.jsp
+
+https://fossil.service-now.com/navpage.do   - Service-Fossil-Now
+
+CANFIN Finanace
+UserName : 200226000215
+Password : CFHL000215
+
+
+https://drive.google.com/open?id=1pfcImhPWqAbeJofmDpvx6-hU6n_haNR_cj7KTQxRR9g
+
+
+Validation Report
+
+https://drive.google.com/open?id=1BKar6d37tVFyEoK148w4gD66p3WHiceV9W2y_zS8MdI
+
+*********************************************
+Sanbox/VMs Database Details Details:
+Sandbox DB located on  :  dalcpldd10 SERVER 53000 REMOTE_INSTANCE PLMS14X
+
+Restore LPAR DB (used by Infosys VMs -PLMDEV and PLMQA) with PLMS14X Db from June28th Production Backup
+Details are as follows:
+
+Source           : DB2PLM:PLM2014X   - June 14th Production Backup  // PROD
+LPAR Destination : dalcpldd11 SERVER 52000 REMOTE_INSTANCE PLMDEV   // VM PLMDEV
+
+Source           : DB2PLM:PLM2014X   - June 14th Production Backup  // PROD
+LPAR Destination : dalcpldd11 SERVER 50000 REMOTE_INSTANCE PLMQA    // VM PLMQA
+
+Source           : DB2PLM:PLM2014X dalcpldp10 - Jan24th Production Backup   // PROD
+Destination      : dalcpldd10 SERVER 53000 REMOTE_INSTANCE PLMS14X          // SANDBOX
+
+Source           : Database : dalcpldd10 SERVER 53000 REMOTE_INSTANCE PLMS14X  // SANDBOX
+Destination      : Database : dalcpldd00 SERVER 61000 REMOTE_INSTANCE plmmig   // PREQA
+
+db2 "CATALOG TCPIP NODE PLMQA REMOTE dalcpldq00 SERVER 50000 REMOTE_INSTANCE PLMQA"   // Main QA
+db2 "CATALOG DATABASE PLMQ14X AS PLMQ14X AT NODE PLMQA"
+db2 "terminate"
+
+Destination      : dalcpldd10 SERVER 53000 REMOTE_INSTANCE PLMS14X  // SANDBOX
+Destination      : dalcpldd00 SERVER 52000 REMOTE_INSTANCE plmdev   // DEV2
+Destination      : dalcpldd10 SERVER 55000 REMOTE_INSTANCE PLMSTAG  // STAGING
+
+Source           : Database : dalcpldq00 SERVER 50000 REMOTE_INSTANCE PLMQ14X  // Main QA
+Destination      : Database : dalcpldd10 SERVER 53000 REMOTE_INSTANCE PLMS14X  // SANDBOX
+
+Destination      : Database : dalcpldd10 SERVER 55000 REMOTE_INSTANCE PLMSTAG  // STAGING
+Destination      : Database : dalcpldd11 SERVER 52000 REMOTE_INSTANCE plmdev   // LPAR PLMDEV
+Databases        : plmd14x , plmd14x1, plmd14x2, plmd14x3,plmd14x4,plmd14x5,plmd14x6 and plmd14x7
+
+Destination      : Database : dalcpldd11 SERVER 52000 REMOTE_INSTANCE plmqa    // LPAR PLMQA
+Databases        : plmq14x
+
+
+Source           : Database : dalcpldd10  SERVER 52000 REMOTE_INSTANCE plmdev:PLMD14X // PROJECTQA
+LPAR Destination : dalcpldd11 SERVER 50000 REMOTE_INSTANCE PLMQA                      // VM PLMQA
+
+Source           : Database : dalcpldd10  SERVER 52000 REMOTE_INSTANCE plmdev:PLMD14X // PROJECTQA
+LPAR Destination : dalcpldd11 SERVER 52000 REMOTE_INSTANCE PLMDEV:PLMD14X1            // VM PLMDEV
+
+Source           : Database : dalcpldd10  SERVER 52000 REMOTE_INSTANCE plmdev:PLMD14X // PROJECTQA
+LPAR Destination : dalcpldd11 SERVER 52000 REMOTE_INSTANCE PLMDEV:PLMD14X6            // VM PLMDEV
+
+Source           : Database : dalcpldd10  SERVER 52000 REMOTE_INSTANCE plmdev:PLMD14X // PROJECTQA
+LPAR Destination : dalcpldd11 SERVER 52000 REMOTE_INSTANCE PLMDEV:PLMD14X4            // VM PLMDEV
+
+************************************************************************************
+
+db2 "CATALOG TCPIP NODE plmdev REMOTE dalcpldd11 SERVER 52000 REMOTE_INSTANCE plmdev"
+db2 "CATALOG DATABASE PLMD14X5 AS PLMD14X5 AT NODE plmdev"
+db2 "terminate"
+
+db2 "CATALOG TCPIP NODE plmqa REMOTE dalcpldd00 SERVER 50000 REMOTE_INSTANCE plmqa"
+db2 "CATALOG DATABASE PLMQ14X AS PLMQ14X AT NODE plmqa"
+db2 "terminate"
+
+dalcpldd00 SERVER 50000 REMOTE_INSTANCE plmqa
+
+DROP an instance
+db2 "uncatalog db PLMD14X"
+db2 "uncatalog node plmdev"
+db2 "terminate"
+*****************************
+[tomcat@uusrcdpla12 ContEnoMonSvr_Version7.0]$ cd /VAULT/MCS/mxDBLockMonitor/
+[tomcat@uusrcdpla12 mxDBLockMonitor]$ nohup ./runDBLockMonitorSvr.sh &
+****************************
+-----------------------------------------
+LPAR QA-
+
+LPAR--
+db2 "CATALOG TCPIP NODE plmdev REMOTE dalcpldd11 SERVER 52000 REMOTE_INSTANCE plmqa"
+db2 "CATALOG DATABASE PLMQ14X AS PLMQ14X AT NODE plmqa"
+db2 "terminate"
+---
+Infosys VMS
+
+svn update was not working. Had to setup svn with this command:
+svn co http://uusrcdcode00/plm/1538
+svn co http://uusrcdcode00/mcc
+
+
+svn list -v http://uusrcdcode00/plm/1538
+
+user name : db2plm
+Pwd       : v6r2014x
+
+user name : db2plm
+pwd : v6r2013x
+********************************
+
+cd /usr/DassaultSystemes/enoviaV6R2014x/advancedsearch/linux_a64/code/command
+
+./startXLAdvancedSearchServer.sh
+
+*************************************************************************************************************
+
+Step1-FSL_ProductTemplateReport.tcl
+this needs to be converted to a JPO
+
+WUSRCQWIN7VAULT
+WUSRCQWIN7VALT1
+WUSRCQWIN7VALT2
+WUSRCQWIN7VALT3
+
+Qb{3GwjaqFov
+
+http://uusrcqpla12:8080/enovia/
+http://uusrcypla:8080/enovia/
+
+https://vaultqa-tu.fossil.com/enovia/emxLogin.jsp
+https://vaultqa.fossil.com/enovia
+
+http://uusrcdpla11:8080/enovia   //SAND BOX URL
+
+https://vaultref.fossil.com/enovia/common/emxNavigator.jsp   //OOTB
+https://vaultref.fossil.com/enovia/common/emxNavigator.jsp#
+Test Everything
+
+http://uusrcppla15:8080/enovia/emxLogin.jsp                   // Production
+
+\\dalgroups\Departments\Project VAULT\Shared\Gary\2014x_FP1538\Windows //1538 Installs
+v_productdeveloper1
+Fossil57!
+
+X20652137
+
+5106466558
+
+Env
+https://docs.google.com/spreadsheets/d/1pfcImhPWqAbeJofmDpvx6-hU6n_haNR_cj7KTQxRR9g/edit#gid=1766814016
+
+cd /opt/tomcat/logs
+tail -100f catalina.out
+
+/usr/DassaultSystemes/enoviaV6R2014x/
+/usr/DassaultSystemes/enoviaV6R2014x/server/scripts   // Partial Indexing Script
+
+/opt/tomcat/bin  // Start or Stop
+/opt/tomcat/logs // Catalina Logs
+
+ps -ef | grep tomcat   Checking Server status
+ps -ef | grep mql
+tar -xvf FulltextGold.tar
+
+Change Catalog in Unix commands :
+su db2plm
+Password : v6r2014x
+
+Root :
+sudo -i
+https://infosys-eta.webex.com/join/vidya_lakshman01   // Vidya Webex RESTFUL API
+Password : contact vinayak
+
+v_cmid1
+
+080 66416511
+
+
+/usr/DassaultSystemes/enoviaV6R2014x/server/scripts/mql
+
+[?6/?30/?2017 11:47 AM] Sumesh Sadasivan:
+companion.3ds.com/CompanionManager/ui/#/
+User Login: HYPERLINK "mailto:sumesh.sadasivan@infosys.com"sumesh.sadasivan@infosys.com
+Password: Z2%dM!$m 
+
+Users:
+pranft/test
+v_cmid1/No
+ghornyak/No
+v_productdeveloper1/Fossil57!
+v_merchant1
+
+INCOMETAX
+ACHPU2933P
+ShanumanS@888
+
+https://ui.requirementone.com/home/projects/?projectid=795394c1-3c61-4b1d-92de-d42e9bc39823   // Requirement Module
+
+http://10.10.232.69:8080/enovia/
+http://uusrcypla00:8080/enovia/
+http://uusrcypla00:8080/enovia/
+
+BZWPK8604G
+
+#################################################
+
+https://eaadhaar.uidai.gov.in/
+
+Vinayak Bridge Details...
+
+44110800
+6285146121
+Attendee access codecode: 493 795 9162
+
+ICICI LOAN : LPBNG00033034082
+33667777
+30 Months
+30 Completed  290000  30
+
+
+Sharmila Bridge
+
+2139422602#
+44110900
+Attendee access code: 928 311 8502
+
+https://iscls2apps.ad.infosys.com/HMYPlus/aspx/incometax/HMYITMedicalBills.aspx
+
+
+https://infosys-india1.webex.com/infosys-india1/mc
+
+User Name : vinayak_paradkar@infosys.com
+Password  : 22HXpqnv$GyRw0l
+
+
+8904735022
+
+print eventmonitor AdvancedSearch select count;
+
+#################################################
+
+Attendee access code: 2592247778gfdgfd
+Call in : 18557689974   7780634686 7780634686
+
+*640
+
+Sarbendra Bridge Details
+Participant passcode:9214953287 then #
+Local and Global Access Dial-in Numbers
+Country Direct dial-in
+US Toll Free 1844 445 2700
+
+https://infosys-india1.webex.com/join/Vinayak_Paradkarinfosys.com   // Vinayak Webex
+https://infosys-india1.webex.com/join/Subahan_Tinfosys.com          // Subahan Webex
+https://infy.webex.com/join/sarbendra.royinfosys.com                // Sarbendra Webex
+https://infosys-india2.webex.com/join/Ashwini_Nidumamidiinfosys.com // Ashwini webex
+https://infy.webex.com/infy/e.php?MTID=m63e3c942df3f10d9df46d7cd26353057  // Ram access code for phone - 426 952 1181
+https://infosys-india2.webex.com/infosys-india2/join/Sharmila_Banerjeeinfosys.com  // Sharmila Bridge
+https://infosys-india2.webex.com/infosys-india2/join/Sharmila_Banerjeeinfosys.com
+ok
+https://infy.webex.com/meet/kiran_k12infosys.com
+1844 445 2700 
+Expand bus id rel “Product Choices” select bus id
+?????? ?? ??????
+Attendee access code: 426 952 1181 
+ICICI : 055201528109
+
+
+9975183293 Suman
+
+Ashwini Bridge :
++91-80-44110900 Call-in number
+1-855-7689973 Call-in toll-free number
+Attendee access code: 149 044 5755
+
+[?3/?4/?2017 5:58 PM] Ramakrishnan Vardharajan:
+Subahan bridge
+Bridge Information Details  
+US Toll Free 1844 445 2700 Participant passcode:9214953287 then # 
+Webex details https://infosys-india1.webex.com/meet/Subahan_Tinfosys.com
+
+[?8/?30/?2017 8:24 PM] Gautam Anil Naik01:
+651 Configurations Update
+
+https://infosys-india1.webex.com/join/Subahan_Tinfosys.com
+USA: 18557689974
+India: 44110800 passcode: 514 492 4042
+passcode: 514 492 4042
+https://infosys-india1.webex.com/meet/Subahan_Tinfosys.com
+
+8310618923
+
+8553562236
+
+uusrcqpla02:8080/enovia
+
+
+Kiran number
+9729515035
+
+https://vaultref.fossil.com/enovia/emxLogin.jsp
+Test Everything
+V1ntage54!  //OOTB
+
+Go to bin from putty
+./startup.sh
+ps -ef | grep tomcat
+crontab -e
+
+26136707
+
+loansupport@hdfcbank.com
+26136707
+
+https://canfinonline.in/login.aspx
+
+top  will all the services
+temp query bus Person * * where 'history.changename !=""' ;
+ITL-HW-LAPTP-000000140823
+
+********************
+
+insert prog "C:\Fossil\workspace\Fossil\src\FSL_BPV_mxJPO.java";
+
+17020790196
+ 
+********************
+DS Logs Process
+ 
+trace type verbose,mql,trigger,memory,program,sql filename SR6218_STG_0203_Logs;
+
+******************
+
+temp query bus "Raw Material" * * where 'format.file.locationfile[EMEA-Basel]=="67/91/6791ckqol2b1a7tbqtdw-vd4thuwpjye7n9schsvzfa.4ch"' select originated name;
+
+*********************
+
+http://blrkec288956d/R2016X/English/DSDoc.htm
+
+*******************************************
+jmap -J-d64 -dump:live,format=b,file=/home/tomcat/dump/uusrcppla10_jmap.dump  4082
+*******************************************
+
+print eventmonitor AdvancedSearch select count;
+
+print eventmonitor AdvancedSearch select * output /tmp/eventmonitor_28_11_2017.txt;
+Licence Key Expired ------*****************
+
+Important: In case of database change or license renewal, rehosting of spinner license is required to refresh spinner license setup. Execute the following command to rehostspinner license:
+
+1.Copy the License key file (DSOLicense.key) into ENOVIA Studio and ENOVIA Server where Matrix-R exists at path ../enoviaV6R2014x/studio and path ../enoviaV6R2014x/server (Note that the license key may be provided in a zip file. The license key file name is DSOLicense.key).
+
+2.Open MQL from enoviaV6R2014x/ server/win_b64/code/bin/mql.exe and execute the following command:
+
+execute program emxSpinnerLicenseRehost.tcl;
+
+Licence Key Expired ------***************
+
+MCC Web Ex Details:
+
+Webex details:
+
+Open Bridge:
+0 44110800
+02848 28161
+
+Subahan's Bridge:
+https://infosys-india1.webex.com/start/Subahan_Tinfosys.com
+subahan_t@infosys.com
+webex pwd  - Test1234$
+
+begur@canfinhomes.com
+
+200000 Cement
+200000 Ituka
+300000 Iran
+200000 Sand
+200000 Kankara
+200000 Wood
+200000 Laber
+200000 Marbles
+100000 Sand-P
+
+TCL need to written
+need to talk to Chitra/Sharmila for the access
+
+NSR Log In :
+771127052949
+jwalagow
+
+
+5106466558
+
+Open Bridge:
+0 44110800
+02848 28161
+
+Subahan's Bridge:
+https://infosys-india1.webex.com/start/Subahan_Tinfosys.com
+subahan_t@infosys.com
+webex pwd  - Test1234$
+
+
+https://pmaymic.gov.in/
+
+https://www.pradhanmantriyojana.in/pradhan-mantri-awas-yojana-online-application-form/
+8897 0747 9603
+
+
+Below scripts will be executed from uusrcqpla02
+
+Dear Jwala Narasimha Rao Unnam
+Emp No: 717725
+PF Account No: 307796
+UAN : 100431928349
+SA Account No. :717725
